@@ -8,5 +8,3 @@ if typedPassword == '123456':
     print('That password is one that an idiot puts on their luggage.')
 else:
     print('Access denied')
-
-    tesr
