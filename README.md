@@ -1,1 +1,1 @@
-# Just learning git. Git good!:)
+# Started learning with Automate the Boring Stuff with Python.
