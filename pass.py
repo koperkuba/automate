@@ -9,4 +9,4 @@ if typedPassword == '123456':
 else:
     print('Access denied')
 
-print('Wetsja updated')
+print('Working with git is good')
